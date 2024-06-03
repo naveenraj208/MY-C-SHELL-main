@@ -1,0 +1,20 @@
+exit
+ls ..
+ls -a
+ls ~
+ls -
+cd Downloads
+sudo apt magick 
+display
+displayy
+ls -l
+ls -k
+xeyes
+display
+cat out.txt
+echo hello > out.txt
+discover
+history 
+sleep 12
+cat output.txt | wc
+cat output.txt |wc
